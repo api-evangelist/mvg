@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MVG (Munich transit) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mvg.de/
+MVG (Münchner Verkehrsgesellschaft) operates public transportation in Munich, Germany, providing U‑Bahn, bus, and tram services. It offers ticketing options such as MVV tickets, subscriptions, and the Deutschlandticket, along with real‑time news and the MVGO app for journey planning and mobility solutions across the city.
+
+**Areas:** Company · Transportation · PublicTransit · Munich · Germany
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mvg.de/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mvg/](https://apis.io/providers/mvg/).
